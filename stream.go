@@ -32,7 +32,7 @@ import (
 	"strings"
 )
 
-var STREAM_URL = "wss://stream.binance.com:9443/ws"
+var STREAM_URL = "wss://stream.binance.com:9443"
 
 type StreamType int
 
