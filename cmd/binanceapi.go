@@ -25,7 +25,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/crankykernel/binanceapi-go"
+	"github.com/sergei3456/binanceapi-go"
 	"os"
 )
 
